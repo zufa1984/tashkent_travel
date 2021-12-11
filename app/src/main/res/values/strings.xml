@@ -1,0 +1,339 @@
+<resources>
+    <string name="app_name">Tashkent travel</string>
+    <string name="object_name">object name</string>
+    <string name="address">address</string>
+    <string name="information">information</string>
+    <string name="location"><u>Location</u></string>
+    <string name="phone"><u>Phone</u></string>
+    <string name="work_time">work_time</string>
+
+    <string name="name_mosque_khazrati_imam">Mosque Khazrati Imam</string>
+    <string name="name_mosque_sheikh_zayniddin">Mosque Sheikh Zayniddin</string>
+    <string name="name_mosque_minor">Mosque Minor</string>
+    <string name="name_mosque_islam_ota">Mosque Islam Ota</string>
+    <string name="name_mosque_shekh_muhammadsodik">Mosque Sheikh Muhammad Sadyk Muhammad Yusuf</string>
+    <string name="name_hotel_hyatt_regency">Hyatt Regency Hotel</string>
+    <string name="name_hotel_hilton">Hilton Tashkent City Hotel</string>
+    <string name="name_hotel_ichan_qala">Ichan Qal\'a Premium Class Hotel</string>
+    <string name="name_hotel_wyndham">Wyndham Tashkent Hotel</string>
+    <string name="name_hotel_city_palace">City Palace Hotel Tashkent</string>
+    <string name="name_shopping_samarkand_darvoza">Mall Samarkand Darvoza</string>
+    <string name="name_shopping_chorsu_bazaar">Chorsu Bazaar</string>
+    <string name="name_shopping_yangiabad">Yangiobod Weekend Flea Market</string>
+    <string name="name_shopping_next">Next Mall</string>
+    <string name="name_shopping_megaplanet">Mega Planet</string>
+    <string name="name_museums_nature">State Museum of Nature of Uzbekistan</string>
+    <string name="name_museums_zoo">Tashkent Zoo</string>
+    <string name="name_museums_victory">Victory Park</string>
+    <string name="name_museums_temurids">Amir Timur Museum</string>
+    <string name="name_museums_railways">Railway Museum</string>
+
+    <string name="info_mosque_khazrati_imam">Thoroughly restored in 2007, the historic buildings of
+        the complex, with the earliest of them dating back to the 16th century, show their original
+        splendor now. The new mosque featuring traditional Islamic architectural elements adds to
+        the grandeur of the site.</string>
+    <string name="info_mosque_sheikh_zayniddin">\"Sheyh Zayniddin\" Jami mosque and mausoleum widely
+        known in Tashkent as \"Kukcha\" mosque is located in Mannon Uygur street 378, in a small Tashkent
+        district known among locals as Kukcha. \"Sheyh Zayniddin\" mosque and the cemetery next to it
+        have 700 years history. \nAccording to history professor Omonulla Fayzullaev, Sheyh Zayniddin\'s
+        full name is nothing less than \"Sheyh Zayniddin Koyi Orifoni Toshkandi ibn Sheyh Shahobiddin
+        Abu Hafs Umar Suhravardi\". He was born in 1164 and died in 1259 when he was 95 years old
+        (The exact date of his birth is unknown).</string>
+    <string name="info_mosque_minor">Minor mosque - a new architectural complex in Tashkent - the
+        capital of Uzbekistan, located on the banks of the canal Anhor, embankment of which in recent
+        months has undergone significant changes in terms of improvement.\nThe mosque is designed for
+        more than 2,400 people. After opening it has become one of the largest spiritual centers of
+        Muslims of Tashkent and Uzbekistan. Its construction was financed by the state budget and the
+        Spiritual Administration of Muslims in Uzbekistan.\nThe mosque has all the facilities and
+        amenities for the parishioners. There are special rooms for washing, which are equipped with
+        all necessary facilities.</string>
+    <string name="info_mosque_islam_ota">Islom Ota Mosque is one of the most beautiful mosques in
+        Tashkent. It was founded in 2016, but the mosque itself has been around for many years.
+        Previously, it was called \"Jurabek\" and in 2015 the mosque suffered from a fire, after which
+        reconstruction work was carried out. The Islom Ota Mosque, named after the first President
+        of Uzbekistan Islam Karimov, appeared on the site of the old mosque, and the territory of
+        the complex has doubled and today can accommodate up to 10 thousand people. There is also
+        a library that contains rare editions and original manuscripts. The mosque was built in the
+        best traditions of eastern mosques: the complex is decorated with a huge blue dome, a high
+        minaret and four small minarets at its corners.</string>
+    <string name="info_mosque_shekh_muhammadsodik">The mosque is located next to the \"Sugalli Ota\"
+        pilgrimage site. Sheikh Muhammad Sadyk Muhammad Yusuf began its construction.\nOn the territory
+        of more than 2 hectares, a complex has been built, which includes a conference hall, classrooms,
+        a bathing room, a museum and other auxiliary premises. \nThe \"Sugalli Ota\" mausoleum has
+        been restored, and the building of the mosque has been enlarged thanks to the attached iwan.</string>
+    <string name="info_hotel_hyatt_regency">Hyatt Regency Tashkent offers bright, spacious guestrooms
+        with floor-to-ceiling windows that are elegantly decorated with contemporary furniture and
+        locally inspired artwork. Each guestroom has a generous workspace with ergonomic chair and
+        charging station, and bathrooms feature a soothing walk-in rain shower with separate bathtub.
+        Regency Club rooms and suites include access to the Regency Club Lounge on the sixth floor,
+        serving complimentary evening cocktails and hors d\'oeuvres</string>
+    <string name="info_hotel_hilton">Get the celebrity treatment with world-class service at Hilton
+        Tashkent City\nLocated in Tashkent, Hilton Tashkent City has a bar and a terrace. Among the
+        facilities of this property are a restaurant, indoor pool and a Pan-Asian rooftop restaurant
+        with city views. The property offers a 24-hour front desk and room service, along with free WiFi
+        throughout.\nAll rooms are equipped with air conditioning, minibar, free WiFi and flat-screen TV.
+        A private bathroom comes with a separate walk-in rain shower and bath, hairdryer and slippers.
+        Free toiletries are featured.</string>
+    <string name="info_hotel_ichan_qala">The hotel\'s interior is decorated in Khiva style, in warm
+        colors typical of the oriental style, using luxurious fabrics. Each room includes a flat-screen TV,
+        refrigerator and a private bathroom with toiletries and hairdryer.The restaurant of the "Ichan Qala"
+        hotel offers dishes of local Uzbek cuisine.\nIn addition, guests can visit the lounge bar and
+        outdoor terrace, as well as a sauna, jacuzzi and billiards.</string>
+    <string name="info_hotel_wyndham">Spacious and modern rooms and suits of the Wyndham Tashkent
+        Hotel are perfect for both business and leisure. Such modern facilities as flat-panel high
+        definition TVs and free high-speed Internet are available for you. The Hotel is located in
+        the city center and is easy to approach by urban transport, and you can reach any place of
+        the city, including such popular attractions like the Alay Bazaar, Museum of Timurids’
+        History, Chor-su Bazaar and Khast Imam Square at whim.\nThere are two restaurants with
+        delicious cuisine and banquet rooms for events such as weddings, corporate meetings,
+        etc in the Hotel. A fitness center with indoor and outdoor pools and saunas are at guests
+        disposal. Discover the beauty of Tashkent with us.</string>
+    <string name="info_hotel_city_palace">City Palace Hotel Tashkent is 1640 feet from Emir Temur
+        Square and Emir Timur Museum in the heart of Tashkent city center. Features include an outdoor
+        pool, indoor pool, and free WiFi. A mini-bar, seating area, and refrigerator are provided in
+        each room as well as a satellite TV. City Palace Hotel Tashkent extras include an electric kettle,
+        towels, and linen. A restaurant is on site, and luggage storage is offered at reception for added
+        convenience. Free parking is provided. Abdulla Kodiriy metro station is 1148 feet away.\nThe
+        hotel is also 2 minutes from Pakhtakor Stadium, 6 minutes drive from Tashkent Botanical Garden,
+        and 4.3 minutes from Tashkent International Airport.</string>
+    <string name="info_shopping_samarkand_darvoza">Samarkand Darvoza is one of the upscale malls in
+        Tashkent which caters to the shopping needs of the customers. This mall is a like a one-stop
+        destination for all the necessary items one would want to buy during their visit to this place.
+        This shopping mall is a great place to hang out with your gang of buddies in your free time.
+        If you are crazy about buying some branded goods, then this mall offers you a good collection
+        of items. You can shop from a wide collection of watches and branded clothes along with
+        footwear and much more at this place. If you are tired of hopping from stall to the other in
+        the mall, then you can visit the food, shopping court and savor some food to
+        regain the lost energy. The mall also has a children\’s play area ideally designed with a variety
+        of games to keep kids engaged.</string>
+    <string name="info_shopping_chorsu_bazaar">Bazaar is the heart of every oriental city, the center
+        of public life, breadwinner of the whole city. Since the dawn of time bazaars appeared on the
+        intersections of trade roads, on big squares of cities. They played role of main places of the
+        city, where merchants, traders and common people gathered to discuss important news, to know
+        prices, to have a rest in cozy choykhana (Uzbek café) eating pilaf and drinking green tea.
+        Also bazaars were the places of main entertaining events of the city – theatrical performances.
+        \nTashkent Bazaar Chorsu, the age of which is more than hundred years, also was always located
+        on the main square of the city Eski-Juva. Old bazaar constructions destroyed and went bad,
+        but the traditional architecture remained unchanged – domed large premises. This was the only
+        way to protect oneself from heat and dust in terms of hot and dry Asian climate.\nThe tendency
+        of construction of such bazaars with a complex of covered premises began in XI century and
+        went on up to XIII century. In our century this bazaar inherited land and premises of previous
+        centuries. The modern trade complex is built with a glance of architectural features and traditions
+        of urban development of previous epochs.</string>
+    <string name="info_shopping_yangiabad">The flea market \"Yangiobod\" has been famous for its uniqueness
+        and coloring for many years. Like all flea markets, the Yangiobod market literally \"boils\" on
+        weekends and you can find absolutely everything here. Do you like computers or do you like to
+        collect antique things? Or maybe you are looking for fishing equipment for fishing for a weekend
+        or you dream about buying a cute little animal? Then you definitely should visit this storehouse
+        of all kinds of goods.\nFlea market \"Yangiobod\" is a real collection of a wide variety of
+        items and things absolutely for all tastes. Being in Tashkent, you must visit this market,
+        where you can find anything you like, and at the same time walk in endless rows and penetrate
+        the real life of the city.</string>
+    <string name="info_shopping_next">SEC \"NEXT\" is a modern, progressive, family shopping mall,
+        opened in 2013 in the Yakkasaray district of Tashkent. The shopping center covers an area of
+        25,000 square meters, which includes the building of a shopping mall, a park area, a terrace,
+        parking for 500 cars and an observation deck with a panoramic view of the center of the capital.
+        \nThe stores of the shopping center present world-famous clothing brands, there is also
+        a play area and a food court. There is a park area in front of the Neksta building: visitors
+        can stroll along a shady alley and enjoy the mesmerizing view of the light and music fountain.</string>
+    <string name="info_shopping_megaplanet">One of the largest shopping and leisure centers in Tashkent.
+        In the Mega Planet mall you can not only shop, but also have a good rest. There is also a
+        playground with professional educators, various cafes and restaurants, cinemas. MEGA PLANET
+        is a modern shopping and entertainment complex that represents a new format of shopping and
+        entertainment for a fun and comfortable leisure time for the whole family.</string>
+    <string name="info_museums_nature">State Museum of Nature of Uzbekistan is located in Tashkent. It
+        was established in July 12, 1876. The museum collection consists of 400 000 items, 300,000 of
+        them are insects, 11000 - herbarium sheets, as well as many other zoological and geological materials.
+        \nThe museum has four sections:\n- Department of Geology and Geography\n- Departments of flora
+        and fauna\n- Scientific and Educational Department\n- Stock departmen.\nInvaluable collection
+        funds were collected by expeditions for many years. Thus, the Museum of Nature of the Republic
+        of Uzbekistan became the main museum of the country. The museum exposition has many exhibits
+        of the origin of the first life on Earth, nature and the natural resources of the Republic.</string>
+    <string name="info_museums_zoo">From the earliest days Tashkent Zoo has become a popular place
+        for locals and guests of the capital. In one of the most picturesque parts of the city on an
+        area of 22.7 hectares there is an exhibition of the interesting fauna of Uzbekistan and the
+        world, characterized by great diversity.\nYou can get personally acquainted with the life
+        of animals in conditions close to nature by visiting enclosures with predators and other
+        mammals, parrots, exotic birds and waterfowl, primates. Some of the most ancient inhabitants
+        of the Earth - snakes feel at ease in a specially designed terrarium. The wonderful world of
+        the deep sea and freshwater submitted with more than 130 species of fish, swimming in the
+        beautiful aquariums. For the youngest visitors here operates a petting zoo where children
+        are in close proximity to animals watching their life can touch the turtle or guinea pigs,
+        rabbits. Every year more and more adults and children come here to get closer to nature.</string>
+    <string name="info_museums_victory">Victory Park was planned in honor of the 75th anniversary of
+        the end of the Second World War. It was declared by President Shavkat Mirziyoyev in a holiday
+        address on Victory Day in 2019. When describing the park, he said that it will be the \"practical
+        embodiment of our admiration for the people\'s feat in that cruel war.\" It was also conceived
+        during a visit by Russian President Vladimir Putin to Tashkent in October 2018. \nBuildings
+        such as a \"Museum of Glory\" were be erected on the park\'s territory while designs such as
+        an entrance arch were being installed. Historical memorabilia such as emblems, war flags and
+        maps were added to the architectural ensemble of the park. The Ministry of Defense, the Ministry
+        of Culture and the Academy of Sciences of Uzbekistan worked on the creation of the park as
+        a joint project.</string>
+    <string name="info_museums_temurids">Amir Timur Museum is a unique museum in Tashkent and can easily
+        be declared as the best museum in town. The museum is one of a kind both because of the theme,
+        which is anything related to the reign of Amir Timur, and the architectural structure of the
+        building itself. There are two main floors and an hour would be enough to explore them both.
+        \n The Museum inauguration was dated to 660 anniversary of Amir Timur. The Amir Timur Museum
+        holds exhibits dedicated to the epoch of Timur and the Timurid dynasty. There, you can see
+        beautiful miniatures reflecting events of that epoch. There is a copy of the Ottoman Koran
+        in the central hall on the Museum ground floor. The walls of the hall, decorated by the best
+        artists of Uzbekistan, show the scenes from Timur\’s life.</string>
+    <string name="info_museums_railways">One of the most interesting sights in Tashkent is the Museum
+        of Railway Engineering, or as the locals call it, the \"Museum of Steam Locomotives\". Children
+        will especially like it, because museum exhibits can not only be touched by hands, but fully
+        explored from the inside!\nThe museum itself is more like a park, it has an elongated shape
+        of almost a kilometer, so excursions around it are carried out on a small train running through
+        the territory. This is a favorite place for the residents of the capital of Uzbekistan,
+        where they often shoot in retro style, wedding photo walks, and come with the whole family
+        with children.</string>
+
+    <string name="address_mosque_khazrati_imam">Karasaray str., 107/1, Tashkent</string>
+    <string name="address_mosque_sheikh_zayniddin">Mannon Uyger str., 378, Tashkent</string>
+    <string name="address_mosque_minor">Minor str., 1, Yunusobod district, Tashkent</string>
+    <string name="address_mosque_islam_ota">Fargona yuli str., 51, Tashkent</string>
+    <string name="address_mosque_shekh_muhammadsodik">Bektopi str., Chilanzar district, Tashkent</string>
+    <string name="address_hotel_hyatt_regency">Navoi str., 1 A, Tashkent</string>
+    <string name="address_hotel_hilton">Islam Karimov str. Block 5, Tashkent</string>
+    <string name="address_hotel_ichan_qala">Tafakkur str., 24, Tashkent</string>
+    <string name="address_hotel_wyndham"> Amir Temur Str., C-4, No. 7/8,Tashkent</string>
+    <string name="address_hotel_city_palace">Amir Temur str., 15, Tashkent</string>
+    <string name="address_shopping_samarkand_darvoza">Karatash str., 5a, Tashkent</string>
+    <string name="address_shopping_chorsu_bazaar">Tafakkur str., 57, Tashkent</string>
+    <string name="address_shopping_yangiabad">Kuyi Talarik str., 1, Tashkent</string>
+    <string name="address_shopping_next">Bobur str., 6, Tashkent</string>
+    <string name="address_shopping_megaplanet">Akhmad Donish str., 2B, Tashkent</string>
+    <string name="address_museums_nature">Zarkaynar str., 1, Tashkent</string>
+    <string name="address_museums_zoo">Bogishamol str., 232A, Tashkent</string>
+    <string name="address_museums_victory">Korakamish str., 2/1, Tashkent</string>
+    <string name="address_museums_temurids">Amir Temur str., 13, Tashkent</string>
+
+    <string name="address_museums_railways">Turkiston str., 6, Tashkent</string>
+    <string name="phone_mosque_khazrati_imam"><u>tel:+998974904553</u></string>
+    <string name="phone_mosque_sheikh_zayniddin"><u>tel:+998946922835</u></string>
+    <string name="phone_mosque_minor"><u>tel:+998712351733</u></string>
+    <string name="phone_mosque_islam_ota"><u>tel:+998712995882</u></string>
+    <string name="phone_mosque_shekh_muhammadsodik"><u>tel:+998712175999</u></string>
+    <string name="phone_hotel_hyatt_regency"><u>tel:+998712071234</u></string>
+    <string name="phone_hotel_hilton"><u>tel:+998712108888</u></string>
+    <string name="phone_hotel_ichan_qala"><u>tel:+998712319898</u></string>
+    <string name="phone_hotel_wyndham"><u>tel:+998781203700</u></string>
+    <string name="phone_hotel_city_palace"><u>tel:+998712383000</u></string>
+    <string name="phone_shopping_samarkand_darvoza"><u>tel:+998712050055</u></string>
+    <string name="phone_shopping_chorsu_bazaar"><u>tel:+998974904553</u></string>
+    <string name="phone_shopping_yangiabad"><u>tel:+998712983929</u></string>
+    <string name="phone_shopping_next"><u>tel:+998712312010</u></string>
+    <string name="phone_shopping_megaplanet"><u>tel:+998781293131</u></string>
+    <string name="phone_museums_nature"><u>tel:+998712070317</u></string>
+    <string name="phone_museums_zoo"><u>tel:+99871289095</u></string>
+    <string name="phone_museums_victory"><u>tel:+998974904553</u></string>
+    <string name="phone_museums_temurids"><u>tel:+998712320766</u></string>
+    <string name="phone_museums_railways"><u>tel:++998712997040</u></string>
+
+    <string name="work_time_mosque_khazrati_imam">05:30 – 21:30</string>
+    <string name="work_time_mosque_sheikh_zayniddin">05:30 – 21:30</string>
+    <string name="work_time_mosque_minor">05:30 – 21:30</string>
+    <string name="work_time_mosque_islam_ota">05:30 – 21:30</string>
+    <string name="work_time_mosque_shekh_muhammadsodik">05:30 – 21:30</string>
+    <string name="work_time_hotel_hyatt_regency">24/7</string>
+    <string name="work_time_hotel_hilton">24/7</string>
+    <string name="work_time_hotel_ichan_qala">24/7</string>
+    <string name="work_time_hotel_wyndham">24/7</string>
+    <string name="work_time_hotel_city_palace">24/7</string>
+    <string name="work_time_shopping_samarkand_darvoza">10:00 – 22:30</string>
+    <string name="work_time_shopping_chorsu_bazaar">05:00 – 20:15</string>
+    <string name="work_time_shopping_yangiabad">07:00 – 19:00 only Saturday and Sunday</string>
+    <string name="work_time_shopping_next">10:00 – 22:00</string>
+    <string name="work_time_shopping_megaplanet">10:00 – 22:00</string>
+    <string name="work_time_museums_nature">10:00 – 16:00</string>
+    <string name="work_time_museums_zoo">09:00 – 18:00</string>
+    <string name="work_time_museums_victory">09:00 – 19:00</string>
+    <string name="work_time_museums_temurids">10:00 – 17:00</string>
+    <string name="work_time_museums_railways">08:30 – 19:00</string>
+
+    <string name="title_general_view">General view</string>
+    <string name="title_rooms">Rooms</string>
+    <string name="title_pool">Pool</string>
+    <string name="title_dinning">Dinning</string>
+    <string name="title_bath_room">Bath room</string>
+    <string name="title_new_day">New Day</string>
+    <string name="title_khonakoh">Khonakoh</string>
+    <string name="title_wash_room">Wash room</string>
+    <string name="title_welcoma">Welcome</string>
+    <string name="title_mesmerizing_dome">Mesmerizing dome</string>
+    <string name="title_good_night">Good night</string>
+    <string name="title_dawn">Dawn</string>
+    <string name="title_under_the_floor">Under the floor</string>
+    <string name="title_toilets">Toilets</string>
+    <string name="title_mosque_yard">Mosque Yard</string>
+    <string name="title_nica_day">Nice Day</string>
+    <string name="title_minaret">Minaret</string>
+    <string name="title_white_black">White in Black</string>
+    <string name="title_entrance_door">Entrance doors</string>
+    <string name="title_steam_lokomotives">Steam locomotives</string>
+    <string name="title_biggest_steam_lokomotives">Biggest Steam locomotive</string>
+    <string name="title_biggest_armored_lokomotives">Armored locomotive</string>
+    <string name="title_railway_station">Railway station\nfor traveling through</string>
+    <string name="title_railway_traveling_throught">Railway station\nfor traveling \nthrough
+        the museum</string>
+    <string name="title_ottoman_quran">Ottoman Koran\nin the central hall</string>
+    <string name="title_exhibit_timurid_era">Exhibits of the\nTimurid era</string>
+    <string name="title_miniature_exhibits">Miniature exhibits</string>
+    <string name="title_floors">Floors</string>
+    <string name="title_show_room_jurrasic_peiod">Show room of\nJurrasic peiod</string>
+    <string name="title_entomological_collection">Entomological collection</string>
+    <string name="title_stuffed_real_animals">Stuffed Real Animals</string>
+    <string name="title_stuffed_sheeps">Stuffed sheep in the desert</string>
+    <string name="title_road_to_museum_of_honor">The road to the\nmuseum of honor</string>
+    <string name="title_trenches_and_tanks">Real trenches and tanks</string>
+    <string name="title_wax_figures">Wax figures</string>
+    <string name="title_real_techniques">Only real techniques</string>
+    <string name="title_old_railway_station">Railway station in 1941</string>
+    <string name="title_zoo_entrance">Zoo entrance doors</string>
+    <string name="title_black_bears">Black Bears</string>
+    <string name="title_pride_of_lions">Pride of Lions</string>
+    <string name="title_asian_elephant">Asian Elephant</string>
+    <string name="title_welcoming_peacock">Welcoming Peacock</string>
+    <string name="title_play_area">Play Area</string>
+    <string name="title_brand_stores">Brand Stores</string>
+    <string name="title_food_court">Food Court</string>
+    <string name="title_musical_fountain">Musical Fountain</string>
+    <string name="title_ice_rink">Ice Rink</string>
+    <string name="title_ice_city">Ice City</string>
+    <string name="title_makro_market">Makro Market</string>
+    <string name="title_antique_furnitures">Antique furnitures</string>
+    <string name="title_unique_jewelry">Unique jewelry</string>
+    <string name="title_antiques">Antiques</string>
+    <string name="title_old_musical_instruments">Old musical instruments</string>
+    <string name="title_pet_shops">Pet shops</string>
+    <string name="title_dome_market">Dome market</string>
+    <string name="title_craftsmen">Сraftsmen</string>
+    <string name="title_art_knifes">Art knives</string>
+    <string name="title_dried_fruits">Dried fruits</string>
+
+    <string name="tab_title_hyatt_regency">Hyatt\nRegency</string>
+    <string name="tab_title_hilton">Hilton</string>
+    <string name="tab_title_ichan_qala">Ichan\nQal\'a</string>
+    <string name="tab_title_wyndham">Wyndham</string>
+    <string name="tab_title_city_palace">City\nPalace</string>
+    <string name="tab_title_khazrati_imam">Khazrati\nImam</string>
+    <string name="tab_title_sheikh_zayniddin">Sheikh\nZayniddin</string>
+    <string name="tab_title_minor">Minor</string>
+    <string name="tab_title_islam_ota">Islam\nOta</string>
+    <string name="tab_title_muhammad_sadyk">Sheikh Muhammad Sadyk\nMuhammad Yusuf</string>
+    <string name="tab_title_museum_nature">State Museum of\nNature of Uzbekistan</string>
+    <string name="tab_title_tashkent_zoo">Tashkent\nZoo</string>
+    <string name="tab_title_victory_park">Victory\nPark</string>
+    <string name="tab_title_amir_temur_museum">Amir Timur\nMuseum</string>
+    <string name="tab_title_railway_museum">Railway\nMuseum</string>
+    <string name="tab_title_samarkand_darvoza">Mall Samarkand\nDavroza</string>
+    <string name="tab_title_chorsu_bazaar">Chorsu\nBazaar</string>
+    <string name="tab_title_Yangiobod_market">Yangiobod Weekend\nFlea Marketa</string>
+    <string name="tab_title_next">Mall\nNext</string>
+    <string name="tab_title_megaplanet">Mega\nPlanet</string>
+    <string name="mosques">Mosques</string>
+    <string name="hotels">Hotels</string>
+    <string name="shopping">Shopping</string>
+    <string name="museums_amp_zoo"><![CDATA[Museums & Zoo]]></string>
+
+</resources>

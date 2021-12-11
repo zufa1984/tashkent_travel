@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="175dp"
+            android:src="@drawable/tashkent"
+            android:scaleType="centerCrop"/>
+
+        <FrameLayout
+            android:id="@+id/mosques"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_mosques">
+
+            <ImageView
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:src="@drawable/mosque_icon" />
+
+            <TextView
+                style="@style/CategoryStyle"
+                android:text="@string/mosques" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/hotels"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_hotels">
+
+            <ImageView
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:src="@drawable/hotel_icon" />
+
+            <TextView
+                style="@style/CategoryStyle"
+                android:text="@string/hotels" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/shopping"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_shoppings">
+
+            <ImageView
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:src="@drawable/shopping_icon" />
+
+            <TextView
+                style="@style/CategoryStyle"
+                android:text="@string/shopping" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/museum"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_museums">
+
+            <ImageView
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:src="@drawable/museum_icon" />
+
+            <TextView
+                style="@style/CategoryStyle"
+                android:text="@string/museums_amp_zoo" />
+        </FrameLayout>
+
+    </LinearLayout>
+</ScrollView>
+
+
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D6CD04</color>
+    <color name="colorPrimaryDark">#A39C02</color>
+    <color name="colorBackground">#FBF234</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="category_mosques">#7EEC89</color>
+    <color name="category_hotels">#A0FDAA</color>
+    <color name="category_shoppings">#BDFAC3</color>
+    <color name="category_museums">#DCFADF</color>
+    <color name="text_color">#959146</color>
+</resources>
